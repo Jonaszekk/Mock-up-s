@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+        body {
+            padding-top: 10vh;
+            font-family: 'Catamaran', sans-serif;
+        }
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: auto;      
+            width: 90vw;
+            padding: 15px;
+        }
+        .contact {
+            display: flex;
+            width:50%;
+        }
+
+        
+        
+        form {
+            display: flex;
+            flex-direction: column;
+            width: 50%;
+            text-align: center;
+            color: #403333;
+            border-radius: 5px;
+            padding: 7px;
+        }
+        
+        input {
+            margin: 5px 15px;
+            height: 25px;
+            
+        }
+        textarea {
+            font-family: 'Catamaran', sans-serif;
+            height: 150px;
+            margin: 5px 15px;
+
+        }
+        
+        button {
+            margin: 5px 15px;
+            width: 80px;
+            height: 40px;
+            background: hsla(0, 88%, 35%, 0.725);
+            border: 0;
+            color: white;
+            font-size: 15px;
+            cursor: pointer;
+        }
+        
+        .details {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 50%;
+            color: rgb(41, 37, 37);
+            height: 300px;
+        }
+        
+
+
+
