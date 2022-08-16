@@ -2,4 +2,4 @@
 
 Website Mock-Up's Mapping using: HTML / CSS / JS and Boostrap
 
-Screen Shoot with code in folders
+Screen Shoot with code in separate folders
