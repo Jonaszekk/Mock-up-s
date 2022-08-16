@@ -2,5 +2,5 @@
 
 Website Mock-Up's Mapping using: HTML / CSS / JS and Boostrap
 
-Screen Shoot with code in separate folders 
+Screen Shoot with code in separate folders.
 Some icons are not equeals
