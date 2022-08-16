@@ -1,4 +1,4 @@
-# Mock-Up's
+# Websites styles
 
-Website Mock-Up's Mapping using: HTML / CSS / JS and Boostrap
+Website using: HTML / CSS / JS and Boostrap
 
